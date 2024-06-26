@@ -1,0 +1,88 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background: red;
+    border: 2px ridge black;
+    box-shadow: -5px 5px 30px black;
+    margin: 100px;
+    padding: 100px;
+}
+#Yes{
+    font-size: 1em;
+    width: 10em;
+        height: 40px;
+        
+        border: 30px inherit black ;
+}
+
+#No{
+    width: 10ex;
+        height: 45ex;
+        
+        border: 30px inherit black ;
+}
+
+#no2{
+width: 71ch;
+height: 40ch;
+
+}
+
+#XD{
+    width: 70rem;
+        height: 30rem;
+        
+        border: 30px inherit black ;
+}
+#XD2{
+    width: 10%;
+        height: 20%;
+        
+        border: 30px inherit black ;
+}
+    #Mom{
+        width: 70px;
+        height: 40px;
+       
+        border: 30px inherit black ;
+    }
+    #Mom2{
+        width: 30cm;
+        height: 10cm;
+        
+    }
+    #wtf1{
+        width: 70mm;
+        height: 40mm;
+      
+        border: 30px inherit black ;
+    }
+    #wtf2{
+        width: 70Q;
+        height: 60q;
+        
+        border: 30px inherit black ;
+    }
+    #wtf3{
+        width: 70in;
+        height: 40in;
+        
+        border: 30px inherit black ;
+    }
+    #wtf4{
+        width: 70pc;
+        height: 40pc;
+       
+        border: 30px inherit black ;
+    }
+    #wtf5{
+        width: 600pt;
+        height: 100pt;
+      
+        border: 30px inherit black ;
+    }

@@ -1,0 +1,68 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+h1{
+    color: green;
+} 
+
+#color2{
+    background: linear-gradient(rgb(211, 193, 31) ,rgb(180, 16, 16));
+    -webkit-background-clip: text;
+    color: transparent;  
+
+}
+#family1{
+
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+
+
+}
+#texshadow{
+    text-shadow: rgb(206, 206, 12);
+}
+#text1{
+    text-align: left;
+    line-height: 1.0;
+}
+#text2{
+    text-align: center;
+    line-height: 3.0;
+
+}
+#text3{
+    text-align: right;
+    line-height: 2.0;
+
+}
+#text4{
+    text-align: justify;
+    line-height: 0.5;
+
+}
+#sepa1{
+    letter-spacing: 10px;
+}
+#sepa2{
+    letter-spacing: 30px;
+}
+#sepa3{
+    word-spacing: 30px;
+
+
+}
+#sepa4{
+    word-spacing: 50px;
+
+}
+#color1.hover{
+    color: transparent;
+    background: linear-gradient(red);
+    transition: 5s all ease;
+    transform: scale(1) rotate(300deg);
+    background-clip: text;
+}

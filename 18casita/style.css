@@ -1,0 +1,335 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.a{
+    width: 40%;
+    height: 0%;
+    margin: 50px;
+    padding: 600px;
+    background: linear-gradient( aquamarine,gray);
+}
+.b{
+    background: radial-gradient(red,yellow);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 400px;
+    left: 350px;
+    border-radius: 100%;
+    border: 2px solid;
+
+}
+.c{
+    background: white;
+    position: relative;
+    bottom: 450px;
+    right: 500px;
+    border-radius: 100%;
+    width: 200px;
+    height: 150px;
+    border: none;
+    box-shadow: none;
+}
+#nube1{
+    background: white;
+    position: absolute;
+    bottom: 30px;
+    left: -60px;
+    border-radius: 100%;
+    width: 200px;
+    height: 100px;
+    border: none;
+    box-shadow: none;
+
+}
+#nube2{
+    border: none;
+    background:white;
+    position: absolute;
+    bottom: 30px;
+    right: -60px;
+    border-radius: 100%;
+    width: 200px;
+    height: 100px;
+    box-shadow: none;
+}
+.d{
+    background: white;
+    position: relative;
+    bottom: 1200px;
+    left: 650px;
+    border-radius: 100%;
+    width: 200px;
+    height: 150px;
+    border: none;
+    box-shadow: none;
+
+}
+#nube3{
+    background: white;
+    position: absolute;
+    bottom: 30px;
+    left: -60px;
+    border-radius: 100%;
+    width: 200px;
+    height: 100px;
+    border: none;
+    box-shadow: none;
+
+}
+#nube4{
+    border: none;
+    background:white;
+    position: absolute;
+    bottom: 30px;
+    right: -60px;
+    border-radius: 100%;
+    width: 200px;
+    height: 100px;
+    box-shadow: none;
+}
+
+.arbol{
+    background-color: maroon;
+    position: relative;
+    bottom: -850px;
+    right: 30px;
+    width: 70px;
+    height: 350px;
+    border: none;
+    box-shadow: none;
+    border: 2px solid;
+
+
+}
+#arbol1{
+    background-color: greenyellow;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    position: relative;
+    border: none;
+    bottom: 100px;
+    right: 80px;
+    box-shadow: none;
+    border: 2px solid;
+
+}
+#arbol2{
+    background-color: greenyellow;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    position: relative;
+    border: none;
+    bottom: 230px;
+    left: 30px;
+    box-shadow: none;
+    border: 2px solid;
+    
+}
+#arbol3{
+    background-color: greenyellow;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    position: relative;
+    border: none;
+    bottom: 460px;
+    left: -20px;
+    box-shadow: none;
+    border: 2px solid;
+    
+}
+.arbol0{
+    background-color: maroon;
+    position: absolute;
+    bottom: -1050px;
+    left: 970px;
+    width: 70px;
+    height: 350px;
+    border: none;
+    box-shadow: none;
+    border: 2px solid;
+
+}
+#arbol4{
+    background-color: greenyellow;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    position: relative;
+    border: none;
+    bottom: 90px;
+    right: 95px;
+    box-shadow: none;
+    border: 2px solid;
+
+
+}
+#arbol5{
+    background-color: greenyellow;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    position: relative;
+    position: relative;
+    border: none;
+    bottom: 220px;
+    left: 15px;
+    box-shadow: none;
+    border: 2px solid;
+
+    
+}
+#arbol6{
+    background-color: greenyellow;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    position: relative;
+    border: none;
+    bottom: 450px;
+    left: -50px;
+    box-shadow: none;
+    border: 2px solid;
+
+    
+}
+.borde{
+    background-color: black;
+    position: relative;
+    bottom: 300px;
+    left: 50px;
+    width: 1200px;
+    height: 100px;
+}
+.casa{
+    background-color: darkkhaki;
+    width: 520px;
+    height: 500px;
+    position: relative;
+    bottom: 900px;
+    right: -380px;
+    border: 2px solid;
+}
+#techo{
+    background: grey;
+    width: 700px;
+    height: 50px;
+    position: relative;
+    bottom: 50px;
+    right: 100px;
+    border: 2px solid;
+
+}
+#puerta{
+    background-color: chocolate;
+    width: 100px;
+    height: 150px;    
+    position: relative;
+    bottom: -300px;
+    right: -50px;
+    border: 2px solid;
+}
+#perilla{
+    position: relative;
+    bottom: -80px;
+    left: 80px;
+    background: black;
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+}
+#ventana{
+    width: 200px;
+    height: 170px;
+    background: linear-gradient(to bottom right,rgb(0, 162, 255),gray);
+    position: relative;
+    bottom: 50px;
+    left: 300px;
+    border: 2px solid;
+}
+#borde1{
+    width: 200px;
+    height: 10px;
+    background-color: gray;
+    position: relative;
+    bottom: -80px;
+    right: 0px;
+    border: 2px solid rgb(70, 67, 67);
+
+}
+#borde2{
+    width: 10px;
+    height: 170px;
+    background-color: gray;
+    position: relative;
+    bottom: 10px;
+    right: -100px;
+    border: 2px solid rgb(70, 67, 67);
+    
+
+}
+.cabeza{
+    background: gray;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    bottom: 20px;
+    right: 50px;
+}
+#cuerpo{
+    width: 10px;
+    height: 100px;
+    background: gray;
+    position: relative;
+    bottom: -30px;
+    left: 15px;
+
+}
+#brazo1{
+    width: 50px;
+    height: 8px;
+    background:  gray;
+    position: relative;
+    bottom: 20px;
+    left: 15px;
+    rotate: 25deg;
+    
+
+}
+#brazo2{
+    width: 50px;
+    height: 8px;
+    background:  gray;
+    position: relative;
+    bottom: 25px;
+    right: 25px;
+    rotate: -25deg;
+    
+
+}
+#pierna1{
+    width: 50px;
+    height: 8px;
+    background:  gray;
+    position: relative;
+    bottom: -30px;
+    left: 9px;
+    rotate: 45deg;
+
+}
+#pierna2{
+    width: 50px;
+    height: 8px;
+    background:  gray;
+    position: relative;
+    bottom: -20px;
+    left: -20px;
+    rotate: -45deg;
+
+}

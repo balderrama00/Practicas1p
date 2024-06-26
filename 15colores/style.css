@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  div{
+    width: 200px;
+    height:200px;
+    border: 3px solid black;
+    
+    margin: 100px;
+    padding: 50px;
+  }
+  #n1{
+    background: peru;
+    
+  }
+  #n2{
+    background: #9EFF94;
+  }
+  #n3{
+    background: #ABC;
+  }
+  #n4{
+    background: rgb(20, 45, 80);
+  }
+  #n5{
+    background: rgb(40%, 60%, 10%);
+  }
+  #n6{
+    background: rgba(10, 20, 50, 0.5);
+  }
+  #n7{
+    background: rgba(60%, 30%, 20%, 1);
+  }
+  #n8{
+    background: linear-gradient(blue, pink);
+    
+  }
+  #n9{
+    background: radial-gradient(red,darkred);
+  }
+  #n10{
+    background: linear-gradient(90deg, blue, pink);
+  }
+  #n11{
+    background: linear-gradient(45deg, green, blue);
+  }
+  #n12{
+    background: linear-gradient(135deg, purple, pink);
+  }
+  #n13{
+    background: hsl(30, 90, 90  );
+  }

@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    background: red;
+    border: 2px ridge black;
+    box-shadow: -5px 5px 30px black;
+    margin: 40px;
+    padding: 80px;
+    border-radius: 20%
+}
+#relativ{
+  background: rgba(255, 0, 0, 0.7);
+  position: relative;
+  top: 100px;
+  left: 100px;
+}
+#absoluto{
+  background: rgba(0, 255, 0, 0.5);
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+#fijo{
+  background: rgba(255, 0, 0, 0.7);
+  position: fixed;
+  top: 100px;
+  left: 100px;
+}
